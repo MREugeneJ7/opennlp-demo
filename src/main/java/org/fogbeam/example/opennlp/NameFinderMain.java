@@ -27,8 +27,8 @@ public class NameFinderMain
 		
 			NameFinderME nameFinder = new NameFinderME(model);
 			
-			String[] tokens = { //"A", "guy", "named",
-								// "Mr.", 
+			String[] tokens = { "A", "guy", "named",
+								 "Mr.", 
 								"Phillip", 
 								"Rhodes",
 								"is",
